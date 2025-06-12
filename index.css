@@ -1,12 +1,14 @@
 body {
-  background: #333;
+  background: #334;
   color: white;
 }
 
 #description {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 20px;
+  width: 50%;
+  margin: 0 auto;
 }
 
 img {
