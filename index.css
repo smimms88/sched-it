@@ -2,3 +2,9 @@ body {
   background: #334;
   color: white;
 }
+
+#description {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
